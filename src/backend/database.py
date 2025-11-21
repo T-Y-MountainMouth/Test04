@@ -165,7 +165,7 @@ initial_activities = {
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
     },
     "Manga Mania": {
-        "description": "Explore the wonderful stories of fascinating characters from Japanese manga (graphic novels)",
+        "description": "少年マンガの熱いバトル、少女マンガの胸キュン展開、そして異世界転生の冒険！君の推しキャラについて語り合おう！ Let's dive into epic battles, heart-fluttering romance, and isekai adventures! Share your favorite characters and discover new manga worlds together!",
         "schedule": "Tuesdays, 7:00 PM - 8:30 PM",
         "schedule_details": {
             "days": ["Tuesday"],
